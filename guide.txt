@@ -1,1 +1,3 @@
 plugins/font and revolution slider
+practice/map
+themes/except free theme
